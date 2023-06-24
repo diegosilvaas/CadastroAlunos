@@ -1,6 +1,6 @@
 <h1 align="center"> Cadastro de Alunos </h1>  
 
-## ○ Descrição do projeto
+## ○ Descrição do projeto:
 #### O projeto "Cadastro de Alunos" é uma aplicação web desenvolvida utilizando PHP, CSS, HTML e banco de dados MySQL. O objetivo desse projeto é permitir o cadastro, edição, exclusão e login de alunos de forma fácil e intuitiva.
 #
 ## ○ Página inicial
